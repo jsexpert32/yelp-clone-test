@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Diamond Heights Shopping Center",
+        "place_count": 9,
+        "name": "Garrett C.",
+        "imagePath": "https://s3-media1.fl.yelpcdn.com/bphoto/9EJUDsVGgB41cPEr4K0NWw/120s.jpg"
+    },
+    {
+        "title": "San Francisco",
+        "place_count": 9,
+        "name": "Christy R.",
+        "imagePath": "https://s3-media2.fl.yelpcdn.com/bphoto/crY6DFOR0UZApl2E4V4Tcw/120s.jpg"
+    },
+    {
+        "title": "Date Bars in SF",
+        "place_count": 18,
+        "name": "Dion R.",
+        "imagePath": "https://s3-media2.fl.yelpcdn.com/bphoto/eOZLOAApmBafUDYJEhflXA/120s.jpg"
+    }
+]

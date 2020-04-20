@@ -1,0 +1,27 @@
+[
+    {
+        "imagePath": "https://s3-media1.fl.yelpcdn.com/bphoto/Eeo4XhTsItiQ55eXZk_NGg/l.jpg",
+        "title": "Le Sia",
+        "review_count": 11,
+        "category_name": "Asian Fusion",
+        "address": "Midtown West, Hell's Kitchen, Theater District",
+        "start_date": "Opened 3 weeks ago",
+        "price_range": "$$$"
+    },
+    {
+        "imagePath": "https://s3-media2.fl.yelpcdn.com/bphoto/ZpbsDgOXpoAYzKAYCNfyJA/l.jpg",
+        "title": "Yasmin",
+        "review_count": 7,
+        "category_name": "Mediterranean",
+        "address": "Mission",
+        "start_date": "Opened 2 weeks ago"
+    },
+    {
+        "imagePath": "https://s3-media2.fl.yelpcdn.com/bphoto/xisBfgvuTwL7MpDIL4-fdQ/l.jpg",
+        "title": "K Five Fifty",
+        "review_count": 7,
+        "category_name": "Cafes",
+        "address": "Financial District",
+        "start_date": "Opened a few days ago"
+    }
+]
